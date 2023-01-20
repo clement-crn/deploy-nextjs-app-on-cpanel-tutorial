@@ -93,6 +93,9 @@ Stop your app and click on *Run NPM Install*. This is why we removed our node_mo
 ![9](https://user-images.githubusercontent.com/86530475/213730663-d81fc2d9-4c8f-4120-9ef4-81e0c31ce4d7.png)
 
 Change the *Application startup file* **to server.js**
+
+![10](https://user-images.githubusercontent.com/86530475/213732646-2ed2e1d2-fc04-4eff-891e-3717e095746d.png)
+
 ⚠️ Do not forget to save and restart.
 
 
