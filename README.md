@@ -63,10 +63,12 @@ npm run build
 _**Deploy on cPanel**_
 
 You will have to upload your files on your domain folder. You have 3 possibilities :
--FTP
--Git
--File explorer and zip
-⚠️ In any case, always double check you don't forget to add the .next folder ! Otherwise, the build will be useless.
+####
+* FTP
+* Git
+* File explorer and zip
+
+⚠️ In any case, always double check you don't forget to add the **.next** folder ! Otherwise, the build will be useless.
 
 Add your files in the folder linked to your domain or sub-domain.
 In my case, my folder will be /tutorial. 
